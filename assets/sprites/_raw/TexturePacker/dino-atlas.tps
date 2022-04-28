@@ -299,10 +299,10 @@
                 <false/>
             </struct>
             <key type="filename">dino/assets/raw/sprites/dino-dead-outline.png</key>
-            <key type="filename">dino/assets/raw/sprites/dino-idle-1.png</key>
-            <key type="filename">dino/assets/raw/sprites/dino-idle-2.png</key>
-            <key type="filename">dino/assets/raw/sprites/dino-run-1.png</key>
-            <key type="filename">dino/assets/raw/sprites/dino-run-2.png</key>
+            <key type="filename">dino/assets/raw/sprites/chim-idle-1.png</key>
+            <key type="filename">dino/assets/raw/sprites/ chim-idle-2.png</key>
+            <key type="filename">dino/assets/raw/sprites/chim-run-1.png</key>
+            <key type="filename">dino/assets/raw/sprites/chim-run-2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0,0</point_f>
@@ -456,10 +456,10 @@
             <filename>dino/assets/raw/sprites/dino-dead-outline.png</filename>
             <filename>dino/assets/raw/sprites/dino-duck-1.png</filename>
             <filename>dino/assets/raw/sprites/dino-duck-2.png</filename>
-            <filename>dino/assets/raw/sprites/dino-idle-1.png</filename>
-            <filename>dino/assets/raw/sprites/dino-idle-2.png</filename>
-            <filename>dino/assets/raw/sprites/dino-run-1.png</filename>
-            <filename>dino/assets/raw/sprites/dino-run-2.png</filename>
+            <filename>dino/assets/raw/sprites/chim-idle-1.png</filename>
+            <filename>dino/assets/raw/sprites/ chim-idle-2.png</filename>
+            <filename>dino/assets/raw/sprites/chim-run-1.png</filename>
+            <filename>dino/assets/raw/sprites/chim-run-2.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

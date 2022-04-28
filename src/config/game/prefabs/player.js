@@ -1,10 +1,10 @@
 const PLAYER = {
   FRAMES: {
-    INITIAL: 'dino-idle-1',
-    IDLING: ['dino-idle-1', 'dino-idle-2'],
-    RUNNING: ['dino-run-1', 'dino-run-2'],
+    INITIAL: 'chim-idle-1',
+    IDLING: ['chim-idle-1', ' chim-idle-2'],
+    RUNNING: ['chim-run-1', 'chim-run-2'],
     DUCKING: ['dino-duck-1', 'dino-duck-2'],
-    JUMPING: 'dino-idle-1',
+    JUMPING: 'chim-idle-1',
     DEAD: 'dino-dead',
   },
   POS: {
